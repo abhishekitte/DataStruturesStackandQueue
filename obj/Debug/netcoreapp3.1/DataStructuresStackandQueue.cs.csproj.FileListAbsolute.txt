@@ -1,0 +1,5 @@
+C:\Users\pihu\source\repos\DataStructuresStackandQueue.cs\DataStructuresStackandQueue.cs\obj\Debug\netcoreapp3.1\DataStructuresStackandQueue.cs.csproj.AssemblyReference.cache
+C:\Users\pihu\source\repos\DataStructuresStackandQueue.cs\DataStructuresStackandQueue.cs\obj\Debug\netcoreapp3.1\DataStructuresStackandQueue.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pihu\source\repos\DataStructuresStackandQueue.cs\DataStructuresStackandQueue.cs\obj\Debug\netcoreapp3.1\DataStructuresStackandQueue.cs.AssemblyInfoInputs.cache
+C:\Users\pihu\source\repos\DataStructuresStackandQueue.cs\DataStructuresStackandQueue.cs\obj\Debug\netcoreapp3.1\DataStructuresStackandQueue.cs.AssemblyInfo.cs
+C:\Users\pihu\source\repos\DataStructuresStackandQueue.cs\DataStructuresStackandQueue.cs\obj\Debug\netcoreapp3.1\DataStructuresStackandQueue.cs.csproj.CoreCompileInputs.cache
